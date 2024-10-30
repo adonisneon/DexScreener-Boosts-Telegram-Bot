@@ -1,6 +1,6 @@
 # DexScreener-Boosts-Telegram-Bot
 
-DexScreener Boosts Bot is a Telegram bot that provides users with the latest and top boosted tokens on DexScreener. With this bot, users can quickly access updated token information, including market cap, liquidity, price, and social links, by using commands. For automated notifications, users can subscribe to the provided public Telegram channel. The publich channel is also run by a separate bot which i shared here: 
+DexScreener Boosts Bot is a Telegram bot that provides users with the latest and top boosted tokens on DexScreener. With this bot, users can quickly access updated token information, including market cap, liquidity, price, and social links, by using commands. For automated notifications, users can subscribe to the provided public Telegram channel. The publich channel is also run by a separate bot which i shared here: https://github.com/adonisneon/DexScreener-Boost-Monitor-Telegram-Bot
 
 ## Features
 
